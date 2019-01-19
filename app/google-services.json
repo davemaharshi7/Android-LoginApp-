@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658650650797",
+    "firebase_url": "https://loginapp-f6fb9.firebaseio.com",
+    "project_id": "loginapp-f6fb9",
+    "storage_bucket": "loginapp-f6fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658650650797:android:34f97f637b60ffd1",
+        "android_client_info": {
+          "package_name": "com.travel.complete_loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658650650797-np5l18gdch8kuajda0pdlvq5kkpch2j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travel.complete_loginapp",
+            "certificate_hash": "31fd3181dec86199ece7adef05335c3b8890777b"
+          }
+        },
+        {
+          "client_id": "658650650797-d670dr6q32ffvvpn6lv6hfua64j08rc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoh1Qkn9Lp_4eli2KBm268yP_LC2AzO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658650650797-d670dr6q32ffvvpn6lv6hfua64j08rc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

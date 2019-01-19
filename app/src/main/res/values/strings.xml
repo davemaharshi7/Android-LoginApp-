@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="resetPass">We just need your registered Email to send your Password reset Instruction</string>
+</resources>
